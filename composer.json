@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "chrisboulton/php-resque": "dev-master"
+        "chrisboulton/php-resque": "1.2.x"
     },
     "autoload": {
         "classmap": [
